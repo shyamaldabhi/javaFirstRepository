@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Xls_Reader.java&apos; to &apos;POM_TestNG_LinkedIn/src/main/java/com.qa.utilities&apos;&#x0D;&#x0A;- Original project: &apos;BasicFramework65&apos;&#x0D;&#x0A;- Destination element: &apos;POM_TestNG_LinkedIn/src/main/java/com.qa.utilities&apos;&#x0D;&#x0A;- Original element: &apos;utilities.Xls_Reader.java&apos;" description="Copy compilation unit" destination="=POM_TestNG_LinkedIn/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.qa.utilities" element1="/src&lt;utilities{Xls_Reader.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664220565168" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Amazon Suite]">
+  <test name="Amazon Suite(failed)">
+    <classes>
+      <class name="com.qa.testcases.AmazonPageTest">
+        <methods>
+          <include name="readProductRateinAmazon"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.qa.testcases.AmazonPageTest -->
+      <class name="com.qa.testcases.FlipkartPageTest">
+        <methods>
+          <include name="readProductRateInFlipkart"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.qa.testcases.FlipkartPageTest -->
+    </classes>
+  </test> <!-- Amazon Suite(failed) -->
+</suite> <!-- Failed suite [Amazon Suite] -->

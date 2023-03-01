@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;pom.xml&apos; to &apos;JavaProjectCourse&apos;&#x0D;&#x0A;- Original project: &apos;POM_TestNG_LinkedIn&apos;&#x0D;&#x0A;- Destination element: &apos;JavaProjectCourse&apos;&#x0D;&#x0A;- Original element: &apos;pom.xml&apos;" description="Copy file" destination="=JavaProjectCourse" element1="pom.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1665285242257" units="0" version="1.0"/>
+</session>
